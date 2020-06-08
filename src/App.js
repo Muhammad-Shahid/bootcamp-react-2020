@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          welcome to faaz's react app 2020
+          welcome to faaz's react app 2020 with crona
         </p>
         <a
           className="App-link"
